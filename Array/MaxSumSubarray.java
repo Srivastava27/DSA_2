@@ -4,8 +4,8 @@ public class MaxSumSubarray {
     public static void main(String[] args){
         int arr[]={3,5,7,10,2,12,14,-1,-5};
 
-        int ans=largestSumSubarray(arr);
-        System.out.println(ans);
+        int res=largestSumSubarray(arr);
+        System.out.println(res);
 
     }
 
